@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
 
-# 27410 - Group assignment - Group [Group Number] - [TITLE]
+# 27410 - Group assignment - Group 2 - Improve PHA production with Ralstonia eutropha
 
 > Dear students, thank you for accepting the group assignment. Please fill in the
 > requested information below and above ([Group Number] and [TITLE]) and remove this quoted part before submission (everything prepended with a >).
@@ -12,6 +12,7 @@
 > Good luck!
 
 ## Project summary (<300 words)
+Ralstonia eutropha H16 is a Gram-negative lithoautotrophic bacterium that can utillize CO2 and H2 as its sources of carbon and energy in the absence of organic substrates. R. eutropha H16 can reach high cell densities either under lithoautotrophic or heterotrophic conditions, which makes it suitable for a number of biotechnological applications. It is the best known and most promising producer of polyhydroxyalkanoates (PHAs) from various carbon substrates. 
 Describe the overall aim of your project and what you have achieved.
 
 ## Project overview
