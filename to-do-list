@@ -2,4 +2,16 @@ to-do
 
 aim: improve PHA production with Ralstonia eutropha H16 data using Cobrapy
 
-ideas: N-limitation in media, different type of PHA than PHB production, anaerobic cultivation, add different metabolic pathway (to e.g. enable uptake of glucose)
+ideas: N-limitation in media, 
+- different type of PHA than PHB production, 
+- anaerobic cultivation, 
+- add different metabolic pathway (to e.g. enable uptake of glucose)
+
+example from session 6 exercise:
+- change medium
+
+Examples of what other people have done:
+    - calculate costs
+    - change cofactores
+    - change carbon source 
+    -
