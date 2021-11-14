@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/https://github.com/27410/group-assignment-2021-group_2_pha-production/main)
 
 # 27410 - Group assignment - Group 2 - Improve PHA production with Ralstonia eutropha
 
