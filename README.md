@@ -2,7 +2,7 @@
 
 # 27410 - Group assignment - Group 2 - Improve PHA production with _Ralstonia eutropha_ - Category II
 
-## Project summary (<300 words)
+## Project summary 
 _Ralstonia eutropha_ H16 is a Gram-negative lithoautotrophic bacterium that can utillize CO2 and H2 as its sources of carbon and energy in the absence of organic substrates. _R. eutropha_ H16 can reach high cell densities either under lithoautotrophic or heterotrophic conditions, which makes it suitable for a number of biotechnological applications. It is the best known and most promising producer of polyhydroxyalkanoates (PHAs) from various carbon substrates. 
 As substrate accounts for 30-50 % of the total product cost, multiple options for different substrate uptakes were added to the model. In addition to glucose, glycerol and CO2, different alkanoic acids were added as well to model mcl-PHA production.
 
