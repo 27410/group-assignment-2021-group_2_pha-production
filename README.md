@@ -14,6 +14,6 @@ So far, no increase in yield could be achieved.
 
 ## Project overview
 There are two relevant folders in this repository:
-* projects: the code behind the report
-* pictures: the pictures used in the report
+* **projects**: the code behind the report
+* **pictures**: the pictures used in the report
 
