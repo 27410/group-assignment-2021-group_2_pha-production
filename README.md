@@ -8,7 +8,7 @@ As substrate accounts for 30-50 % of the total product cost, multiple options fo
 
 On one hand, glucose, glycerol and CO2 were added to the medium as the sole carbon source utilizing and improving flux to the existing pathway for PHB production. Successfull application in the laboratory could lead to lower substrate and therefore lower production costs.
 
-On the other hand, different alkanoic acids were added to the medium as sole carbon source to produce _medium-chain-length_ PHA. The production pathways for these PHAs were added as well, as they require a different, heterologous PHA synthase to be produced. Producing _mcl_ PHA could increase the selling price, as the material properties are more comparable with crude-oil based plastics. 
+On the other hand, different alkanoic acids were added to the medium as sole carbon source to produce _medium-chain-length_ (mcl) PHA. The production pathways for these PHAs were added as well, as they require a different, heterologous PHA synthase to be produced. Producing _mcl_ PHA could increase the selling price, as the material properties are more comparable with crude-oil based plastics. 
 
 In the scope of this project, no increase in yield could be achieved.
 
