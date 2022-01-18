@@ -1,19 +1,19 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/group-assignment-2021-group_2_pha-production/main)
 
-# 27410 - Group assignment - Group [Group Number] - [TITLE]
+# 27410 - Group assignment - Group 2 - Improve PHA production with _Ralstonia eutropha_ - Category II
 
-> Dear students, thank you for accepting the group assignment. Please fill in the
-> requested information below and above ([Group Number] and [TITLE]) and remove this quoted part before submission (everything prepended with a >).
-> Please also replace `[PUT-YOUR-REPOSITORY-HERE]` up in the first line 👆 with the name of your repository here on GitHub.
-> That way someone can click on the Binder badge icon and open your project in Jupyter lab to explore it.
-> For this to work you will also have to keep `requirements.txt` up to date (by running `pip freeze > requirements.txt`).
-> Furthermore, this will only work if you decide to make your repository public (which you can do under Settings -> Options),
-> which I would encourage you to do – up to you. A lot of good science happens out in the open these days.
-> Good luck!
+## Project summary 
+_Ralstonia eutropha_ H16 is a Gram-negative lithoautotrophic bacterium that can utillize CO2 and H2 as its sources of carbon and energy in the absence of organic substrates. _R. eutropha_ H16 can reach high cell densities either under lithoautotrophic or heterotrophic conditions, which makes it suitable for a number of biotechnological applications. It is the best known and most promising producer of polyhydroxyalkanoates (PHAs) from various carbon substrates. 
+As substrate accounts for 30-50 % of the total product cost, multiple options for different substrate uptakes were added to the model. 
 
-## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+On one hand, glucose, glycerol and CO2 were added to the medium as the sole carbon source utilizing and improving flux to the existing pathway for PHB production. Successfull application in the laboratory could lead to lower substrate and therefore lower production costs.
+
+On the other hand, different alkanoic acids were added to the medium as sole carbon source to produce _medium-chain-length_ (mcl) PHA. The production pathways for these PHAs were added as well, as they require a different, heterologous PHA synthase to be produced. Producing _mcl_ PHA could increase the selling price, as the material properties are more comparable with crude-oil based plastics. 
+
+In the scope of this project, no increase in yield could be achieved.
 
 ## Project overview
-Describe how your project is organized ...
+There are two relevant folders in this repository:
+* **projects**: the code behind the report
+* **pictures**: the pictures used in the report
 
